@@ -101,12 +101,80 @@
             "klub": "dzg"
         },
         {
+            "igrac": "babec",
+            "klub": "gor"
+        },
+        {
+            "igrac": "caio cruz",
+            "klub": "gor"
+        },
+        {
+            "igrac": "debijadi",
+            "klub": "gor"
+        },
+        {
+            "igrac": "delfi",
+            "klub": "gor"
+        },
+        {
+            "igrac": "doka",
+            "klub": "gor"
+        },
+        {
+            "igrac": "dvornekovic",
+            "klub": "gor"
+        },
+        {
+            "igrac": "jovicic",
+            "klub": "gor"
+        },
+        {
+            "igrac": "kalik",
+            "klub": "gor"
+        },
+        {
+            "igrac": "kotarski",
+            "klub": "gor"
+        },
+        {
+            "igrac": "krizmanic",
+            "klub": "gor"
+        },
+        {
             "igrac": "lovric",
             "klub": "gor"
         },
         {
-            "igrac": "atanasov ita",
-            "klub": "haj"
+            "igrac": "matar",
+            "klub": "gor"
+        },
+        {
+            "igrac": "mitrovic",
+            "klub": "gor"
+        },
+        {
+            "igrac": "muhammed",
+            "klub": "gor"
+        },
+        {
+            "igrac": "prsir",
+            "klub": "gor"
+        },
+        {
+            "igrac": "simunovic",
+            "klub": "gor"
+        },
+        {
+            "igrac": "steenvoorden",
+            "klub": "gor"
+        },
+        {
+            "igrac": "stojanovski",
+            "klub": "gor"
+        },
+        {
+            "igrac": "suk",
+            "klub": "gor"
         },
         {
             "igrac": "atanasov mak",
@@ -134,6 +202,10 @@
         },
         {
             "igrac": "elez",
+            "klub": "haj"
+        },
+        {
+            "igrac": "fossati (1)",
             "klub": "haj"
         },
         {
@@ -195,6 +267,102 @@
         {
             "igrac": "subaric",
             "klub": "hdr"
+        },
+        {
+            "igrac": "bande",
+            "klub": "ist"
+        },
+        {
+            "igrac": "beljo",
+            "klub": "ist"
+        },
+        {
+            "igrac": "blagojevic",
+            "klub": "ist"
+        },
+        {
+            "igrac": "caseres",
+            "klub": "ist"
+        },
+        {
+            "igrac": "collao",
+            "klub": "ist"
+        },
+        {
+            "igrac": "danicic",
+            "klub": "ist"
+        },
+        {
+            "igrac": "galilea",
+            "klub": "ist"
+        },
+        {
+            "igrac": "ilicic",
+            "klub": "ist"
+        },
+        {
+            "igrac": "ivancic",
+            "klub": "ist"
+        },
+        {
+            "igrac": "joao silva",
+            "klub": "ist"
+        },
+        {
+            "igrac": "lisica",
+            "klub": "ist"
+        },
+        {
+            "igrac": "lucas moura",
+            "klub": "ist"
+        },
+        {
+            "igrac": "lucic",
+            "klub": "ist"
+        },
+        {
+            "igrac": "mahmoud",
+            "klub": "ist"
+        },
+        {
+            "igrac": "marin",
+            "klub": "ist"
+        },
+        {
+            "igrac": "miskovic",
+            "klub": "ist"
+        },
+        {
+            "igrac": "mlinar",
+            "klub": "ist"
+        },
+        {
+            "igrac": "navarro",
+            "klub": "ist"
+        },
+        {
+            "igrac": "perkovic",
+            "klub": "ist"
+        },
+        {
+            "igrac": "serderov",
+            "klub": "ist"
+        },
+        {
+            "igrac": "cipetic",
+            "klub": "lok"
+        },
+        {
+            "igrac": "dabro",
+            "klub": "lok"
+        },
+        {
+            "igrac": "milicevic",
+            "klub": "lok"
+        },
+        {
+            "igrac": "pivaric",
+            "klub": "lok"
         },
         {
             "igrac": "bajic",
@@ -349,10 +517,6 @@
             "klub": "rij"
         },
         {
-            "igrac": "igracina",
-            "klub": "rij"
-        },
-        {
             "igrac": "kresic",
             "klub": "rij"
         },
@@ -411,6 +575,10 @@
         {
             "igrac": "zlomislic",
             "klub": "rij"
+        },
+        {
+            "igrac": "krstanovic",
+            "klub": "sbp"
         }
     ]
 }
