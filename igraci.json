@@ -145,6 +145,10 @@
             "klub": "gor"
         },
         {
+            "igrac": "lovri\u0107 (1)",
+            "klub": "gor"
+        },
+        {
             "igrac": "matar",
             "klub": "gor"
         },
@@ -365,6 +369,10 @@
             "klub": "lok"
         },
         {
+            "igrac": "bare",
+            "klub": "oml"
+        },
+        {
             "igrac": "bajic",
             "klub": "osi"
         },
@@ -577,7 +585,7 @@
             "klub": "rij"
         },
         {
-            "igrac": "krstanovic",
+            "igrac": "krstanovi\u0107",
             "klub": "sbp"
         }
     ]
