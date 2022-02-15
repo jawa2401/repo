@@ -1,0 +1,47 @@
+kulenovic: lok, 82, Kulenović, ST
+milicevic: lok, 82, Milićević, LB
+osmankovic: lok, 75, Osmanković, CB
+santini: lok, 78, Santini, GK
+males: lok, 76, Maleš, CDM
+cipetic: lok, 79, Cipetić, RB
+pivaric: lok, 80, Pivarić, LW
+viduka: lok, 74, Viduka, RW
+kacavenda: lok, 82, Kačavenda, CAM
+vasilj: lok, 76, Vasilj, CM
+tuci: lok, 76, Tuci, ST
+de_haas: lok, 80, de Haas, CB
+tahiraj: lok, 74, Tahiraj, LW
+cokaj: lok, 79, Çokaj, CM
+musa: lok, 77, Musa, LB
+mersinaj: lok, 77, Mersinaj, CB
+maric: lok, 76, Marić, CM
+nevistic: lok, 83, Nevistić, GK
+dabro: lok, 83, Dabro, ST
+aliyu: lok, 80, Aliyu, RW
+soldo: lok, 80, Soldo, CB
+
+jakolis: sib, 83, Jakoliš, LW
+marin: sib, 80, Marin, CAM
+delic: sib, 80, Delić, ST
+bailone: sib, 64, Bailone, ST
+cvetkovic: sib, 65, Cvetković, ST
+skorup: sib, 74, Skorup, CDM
+julardzija: sib, 71, Julardžija, CAM
+attys: sib, 76, Attys, CM
+rak: sib, 78, Rak, CM
+mocinic: sib, 70, Močinić, CM
+curic: sib, 82, Ćurić, CAM
+bacelic_grgic: sib, 77, Bačelić-Grgić, CAM
+sahiti: sib, 76, Sahiti, RW
+ajakolis: sib, 79, Jakoliš, RB
+juan_mesa: sib, 74, Juan Mesa, CB
+batarelo: sib, 77, Batarelo, CB
+mina: sib, 67, Mina, LB
+dasilva: sib, 65, Dasilva, LB
+bilic: sib, 74, Bilić, CB
+kvesic: sib, 77, Kvesić, LB
+peric: sib, 75, Perić, CB
+rogic: sib, 81, Rogić, GK
+dakovic: sib, 71, Đaković, GK
+
+
